@@ -1,4 +1,6 @@
 * [首页](/)
+* [日记](note.md)
+ * [2025-4-20](note/曲面技巧.md)
 * [指南](guide.md)
 * [API参考](api.md)
 * [高级用法](advanced.md)
