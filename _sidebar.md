@@ -5,6 +5,7 @@
     * [第三章：数据可视化](/docs/数据可视化.md)
     * [第四章：统计检验](/docs/统计检验.md)
 * [微分几何](/docs/目录.md)
+    * [初步复习](/docs/计算.excalidraw.png)
     * [曲面相关参数计算](曲面技巧.md)
 * [AI应用介绍](api.md)
 * [读书笔记](advanced.md)
